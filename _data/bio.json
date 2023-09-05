@@ -1,0 +1,62 @@
+{
+  "basics": {
+    "name": "Sal Aurigemma",
+    "label": "Instructor",
+    "picture": "https://github.com/s-a-itm.png",
+    "email": "sa8@hawaii.edu",
+    "phone": "808-867-5309",
+    "website": "https://s-a-itm.github.io",
+    "summary": "I am a full time Instructor in the ITM department and Faculty Director of the MS Information Systems degree program at the University of Hawai'i at Manoa",
+    "location": {
+      "address": "2404 Maile way",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "s-a-itm",
+        "url": "http://github.com/s-a-itm"
+      },
+      {
+        "network": "linkedin",
+        "username": "sal-aurigemma",
+        "url": "https://www.linkedin.com/in/sal-aurigemma-1358039/"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Cybersecurity"
+    },
+    {
+      "name": "Golf"
+    },
+    {
+      "name": "Drums"
+    },
+    {
+      "name": "Impact of AI on future jobs"
+    },
+    {
+      "name": "Pizza & Poke (not necessarily in that order)"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data Networks"
+    },
+    {
+      "name": "Linux"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawai'i at Manoa",
+      "area": "Communication & Information Sciences (May 2013)",
+      "studyType": "Ph.D."
+    }
+  ]
+}
